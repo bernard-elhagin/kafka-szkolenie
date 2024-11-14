@@ -18,7 +18,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>hello.ProducerClient</mainClass>
+                  <mainClass>kafkaclients.ProducerClient</mainClass>
                 </transformer>
               </transformers>
             </configuration>
